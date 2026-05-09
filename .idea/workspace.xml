@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a3bcce4-359d-484f-bfc2-957db2cf91fe" name="Changes" comment="fixing token" />
+    <list default="true" id="9a3bcce4-359d-484f-bfc2-957db2cf91fe" name="Changes" comment="fixing jdk">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +152,7 @@
       <workItem from="1678263716222" duration="4902000" />
       <workItem from="1678477671834" duration="21933000" />
       <workItem from="1776539672736" duration="27110000" />
-      <workItem from="1778352411833" duration="1616000" />
+      <workItem from="1778352411833" duration="2393000" />
     </task>
     <task id="LOCAL-00001" summary="push project">
       <option name="closed" value="true" />
@@ -184,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778354029344</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixing jdk">
+      <option name="closed" value="true" />
+      <created>1778354428694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778354428694</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +215,8 @@
     <MESSAGE value="push project" />
     <MESSAGE value="fixing tags" />
     <MESSAGE value="fixing token" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing token" />
+    <MESSAGE value="fixing jdk" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing jdk" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
