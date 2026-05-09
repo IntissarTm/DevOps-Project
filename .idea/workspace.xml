@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a3bcce4-359d-484f-bfc2-957db2cf91fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/CI.yaml" afterDir="false" />
+    <list default="true" id="9a3bcce4-359d-484f-bfc2-957db2cf91fe" name="Changes" comment="push project">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/CI.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/CI.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IntissarTm"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/IntissarTm/DevOps-Project.git",
+    "accountId": "1d2e72c0-3971-4bed-b5b8-6b79336e0ff7"
+  }
+}]]></component>
   <component name="JpbToolWindowState">
     <option name="isDesignerTabSelected" value="false" />
     <option name="isToolWindowVisible" value="false" />
@@ -135,8 +147,17 @@
       <workItem from="1678263716222" duration="4902000" />
       <workItem from="1678477671834" duration="21933000" />
       <workItem from="1776539672736" duration="27110000" />
-      <workItem from="1778352411833" duration="530000" />
+      <workItem from="1778352411833" duration="1146000" />
     </task>
+    <task id="LOCAL-00001" summary="push project">
+      <option name="closed" value="true" />
+      <created>1778353168973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778353168973</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +173,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push project" />
+    <option name="LAST_COMMIT_MESSAGE" value="push project" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

@@ -2,7 +2,7 @@ name: Pipeline project
 on:
   push:
     branches:
-      - dev
+      - Dev
 jobs:
   build:
     runs-on: ubuntu-latest
