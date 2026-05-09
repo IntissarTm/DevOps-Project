@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a3bcce4-359d-484f-bfc2-957db2cf91fe" name="Changes" comment="push project">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/CI.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/CI.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9a3bcce4-359d-484f-bfc2-957db2cf91fe" name="Changes" comment="fixing token" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +14,12 @@
     <persistenceIdMap>
       <entry key="_C:/Users/Intis/Desktop/4Arctic1/Devops trainings/gestion-station-ski" value="2KGNd8t6XpRwSpXk8oPXy7yBMPg" />
     </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="agent-panel" value="GPT-5 mini" />
+      <entry key="chat-panel" value="GPT-5 mini" />
+    </selectedModels>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -147,7 +150,7 @@
       <workItem from="1678263716222" duration="4902000" />
       <workItem from="1678477671834" duration="21933000" />
       <workItem from="1776539672736" duration="27110000" />
-      <workItem from="1778352411833" duration="1146000" />
+      <workItem from="1778352411833" duration="1616000" />
     </task>
     <task id="LOCAL-00001" summary="push project">
       <option name="closed" value="true" />
@@ -157,7 +160,31 @@
       <option name="project" value="LOCAL" />
       <updated>1778353168973</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="push project">
+      <option name="closed" value="true" />
+      <created>1778353614420</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778353614421</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixing tags">
+      <option name="closed" value="true" />
+      <created>1778353789066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778353789066</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixing token">
+      <option name="closed" value="true" />
+      <created>1778354029344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778354029344</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +203,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push project" />
-    <option name="LAST_COMMIT_MESSAGE" value="push project" />
+    <MESSAGE value="fixing tags" />
+    <MESSAGE value="fixing token" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing token" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
