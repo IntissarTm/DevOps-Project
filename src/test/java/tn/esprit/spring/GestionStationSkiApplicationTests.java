@@ -10,4 +10,4 @@ class GestionStationSkiApplicationTests {
 	void contextLoads() {
 	}
 
-}
+  }

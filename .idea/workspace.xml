@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a3bcce4-359d-484f-bfc2-957db2cf91fe" name="Changes" comment="fixing jdk">
+    <list default="true" id="9a3bcce4-359d-484f-bfc2-957db2cf91fe" name="Changes" comment="Deploy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,9 @@
     <persistenceIdMap>
       <entry key="_C:/Users/Intis/Desktop/4Arctic1/Devops trainings/gestion-station-ski" value="2KGNd8t6XpRwSpXk8oPXy7yBMPg" />
     </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedChatMode">
+    <option name="chatModeId" value="Agent" />
   </component>
   <component name="CopilotUserSelectedModel">
     <selectedModels>
@@ -153,7 +156,7 @@
       <workItem from="1678477671834" duration="21933000" />
       <workItem from="1776539672736" duration="27110000" />
       <workItem from="1778352411833" duration="2393000" />
-      <workItem from="1778418672185" duration="2435000" />
+      <workItem from="1778418672185" duration="3860000" />
     </task>
     <task id="LOCAL-00001" summary="push project">
       <option name="closed" value="true" />
@@ -195,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778354428694</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Deploy">
+      <option name="closed" value="true" />
+      <created>1778490194226</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778490194226</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +228,8 @@
     <MESSAGE value="fixing tags" />
     <MESSAGE value="fixing token" />
     <MESSAGE value="fixing jdk" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing jdk" />
+    <MESSAGE value="Deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deploy" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
