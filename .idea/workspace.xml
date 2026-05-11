@@ -40,18 +40,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "IntissarTm"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IntissarTm&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/IntissarTm/DevOps-Project.git",
-    "accountId": "1d2e72c0-3971-4bed-b5b8-6b79336e0ff7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IntissarTm/DevOps-Project.git&quot;,
+    &quot;accountId&quot;: &quot;1d2e72c0-3971-4bed-b5b8-6b79336e0ff7&quot;
   }
-}]]></component>
+}</component>
   <component name="JpbToolWindowState">
     <option name="isDesignerTabSelected" value="false" />
     <option name="isToolWindowVisible" value="false" />
@@ -74,37 +74,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.gestion-station-ski [clean].executor": "Run",
-    "Maven.gestion-station-ski [compile].executor": "Run",
-    "Maven.gestion-station-ski [install].executor": "Run",
-    "Maven.gestion-station-ski [test].executor": "Run",
-    "Maven.gestion-station-ski [validate].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.GestionStationSkiApplication.executor": "Run",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Dev",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Intis/Desktop/4Arctic1/Devops trainings/gestion-station-ski",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "979cb177730d39751abecc44667566eb",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.gestion-station-ski [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gestion-station-ski [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gestion-station-ski [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gestion-station-ski [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gestion-station-ski [validate].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.GestionStationSkiApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Dev&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Intis/Desktop/4Arctic1/Devops trainings/gestion-station-ski&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;979cb177730d39751abecc44667566eb&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tn.esprit.spring.configs" />
@@ -153,6 +153,7 @@
       <workItem from="1678477671834" duration="21933000" />
       <workItem from="1776539672736" duration="27110000" />
       <workItem from="1778352411833" duration="2393000" />
+      <workItem from="1778418672185" duration="2435000" />
     </task>
     <task id="LOCAL-00001" summary="push project">
       <option name="closed" value="true" />
